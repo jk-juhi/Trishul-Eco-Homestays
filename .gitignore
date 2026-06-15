@@ -10,3 +10,5 @@ venv/
 
 Thumbs.db
 .DS_Store
+
+# Ignore Jupyter Notebook checkpoints
