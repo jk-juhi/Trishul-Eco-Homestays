@@ -1,114 +1,140 @@
-# Trishul Eco Homestays – AI & Business Intelligence Project
+# Trishul Eco-Homestays Analytics Suite
 
-## Overview
+An end-to-end analytics solution that combines **Machine Learning** and **Business Intelligence** to analyze guest feedback, identify sentiment trends, and generate actionable insights for Trishul Eco-Homestays.
 
-This repository contains the development work carried out for Trishul Eco Homestays under the AI and Data Analytics domain.
+## Project Overview
 
-The project combines Artificial Intelligence and Business Intelligence techniques to analyze guest feedback, monitor customer satisfaction, and generate actionable business insights.
+Guest reviews contain valuable information about customer satisfaction, service quality, and operational performance. This project automates the analysis of guest feedback using a sentiment classification model and visualizes key insights through an interactive dashboard.
 
----
+### Key Objectives
 
-## Project Components
-
-### 1. AI-Powered Guest Review Sentiment Classifier
-
-Objective:
-
-Develop a machine learning-based system that automatically classifies guest reviews into Positive, Neutral, and Negative sentiments.
-
-Key Features:
-
-- Review sentiment classification
-- Text preprocessing
-- Exploratory Data Analysis
-- Sentiment trend visualization
-- Business insight generation
+- Classify guest reviews as Positive, Neutral, or Negative
+- Identify patterns in customer feedbacks
+- Analyze ratings and review trends
+- Visualize business insights through dashboards
+- Support data-driven decision making
 
 ---
 
-### 2. Business Intelligence Dashboard
+## Solution Workflow
 
-Objective:
+```text
+Guest Reviews
+      │
+      ▼
+Data Cleaning & Preprocessing
+      │
+      ▼
+TF-IDF Vectorization
+      │
+      ▼
+Logistic Regression Model
+      │
+      ▼
+Sentiment Prediction
+      │
+      ▼
+Power BI Dashboard
+      │
+      ▼
+Business Insights
+```
 
-Create an interactive dashboard to monitor guest feedback and business performance metrics.
+---
 
-Key Features:
+## Tech Stack
 
-- Guest rating analysis
-- KPI monitoring
-- Review trend tracking
-- Sentiment distribution analysis
-- Interactive reporting
+**Machine Learning**
+
+- Python
+- Pandas
+- Scikit-learn
+- NumPy
+- Joblib
+
+**Visualization & BI**
+
+- Matplotlib
+- Seaborn
+- Power BI
+
+**Development**
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## Dataset
+
+| Column      | Description              |
+| ----------- | ------------------------ |
+| Review_ID   | Unique review identifier |
+| Platform    | Review source            |
+| Review_Text | Guest feedback           |
+| Rating      | Numerical rating         |
+| Sentiment   | Sentiment category       |
+| Theme       | Review theme             |
+
+**Dataset Size:** 70 Guest Reviews
 
 ---
 
 ## Repository Structure
 
 ```text
-Trishul-Eco-Homestays
+Trishul-Eco-Homestays/
 │
-├── AI-Sentiment-Classifier
-├── BI-Dashboard
-├── Deliverables
-└── Documentation
+├── AI-Sentiment-Classifier/
+│   ├── data/
+│   ├── notebooks/
+│   ├── models/
+│   └── predict.py
+│
+├── BI-Dashboard/
+│   ├── datasets/
+│   ├── sql/
+│   ├── powerbi/
+│   └── reports/
+│
+├── Documentation/
+└── Deliverables/
 ```
 
 ---
 
-## Technology Stack
+## Features
 
-### AI & Machine Learning
+### AI Sentiment Analysis
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Jupyter Notebook
+- Text preprocessing and feature extraction
+- TF-IDF vectorization
+- Logistic Regression classification
+- Model evaluation using confusion matrix and classification report
+- Prediction pipeline for new reviews
 
-### Business Intelligence
+### Business Intelligence Dashboard
 
-- Power BI
-- SQL
-- Excel
-
-### Version Control
-
-- Git
-- GitHub
+- Sentiment distribution analysis
+- Rating distribution analysis
+- Platform-wise review insights
+- Theme-based feedback analysis
+- KPI reporting and visual dashboards
 
 ---
 
-## Deliverables
+## Results
 
-### Week 1
-
-- Repository setup
-- Environment configuration
-- Project planning
-- Documentation
-- Technology stack finalization
-
-### Week 2–3
-
-- Dataset preparation
-- Data cleaning
-- Exploratory Data Analysis
-- Sentiment model foundation
-- Dashboard development
-
----
-
-## Current Status
-
-Phase: Foundations & Initial Deliverables
-
-Status: In Progress
+- Built a sentiment classification pipeline for guest reviews
+- Developed reusable prediction workflow using trained ML models
+- Generated review insights for operational analysis
+- Created a foundation for interactive business intelligence reporting
 
 ---
 
 ## Author
 
-Juhi Kansal
-
-AI & Data Analytics Project
-Trishul Eco Homestays
+**Juhi K**
+TBI-GEU Summer Internship Programme 2026
