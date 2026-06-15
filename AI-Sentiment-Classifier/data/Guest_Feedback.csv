@@ -1,0 +1,72 @@
+Review_ID,Platform,Review_Text,Rating,Sentiment,Theme
+1,MakeMyTrip,"Tin shelter, hot/suffocating, flies, dirty washroom, overpriced.",1,Negative,Cleanliness
+2,Goibibo,"Tin shelter, hot/suffocating, flies, dirty washroom, overpriced.",2,Negative,Cleanliness
+3,Google,"Fantastic stay, nice rooms, stunning view, delicious food, kind owner.",5,Positive,Food
+4,Google,"Best in Makkumath, superb service/food, scenic view like heaven.",5,Positive,Food
+5,Google,"Neat and clean rooms, awesome ambiance, budget friendly.",5,Positive,Cleanliness
+6,Google,"Quiet place, good hospitality, near temple.",5,Positive,Host Behavior
+7,Google,"Polite owner, good cook, good winter stay for Tungnath trek.",5,Positive,Food
+8,Google,"Must visit place, best service, home-like, good for workation.",5,Positive,Host Behavior
+9,Google,"Helpful owner, excellent cook, memorable hospitality.",5,Positive,Food
+10,Google,"Amazing experience, considerate host, fair prices.",4,Positive,Host Behavior
+11,Google,"Affordable, humble staff, delicious food, scenic beauty.",5,Positive,Food
+12,Google,"Lovely service, nice smiles, grace, matchless hospitality.",5,Positive,Host Behavior
+13,Google,"Polite owner, neat and clean rooms.",5,Positive,Cleanliness
+14,Google,"Beautiful view, clean and manageable rooms.",4,Positive,Cleanliness
+15,Google,"Good hospitality, great location.",5,Positive,Host Behavior
+16,Google,"Nice arrangement, friendly owner.",1,Negative,Host Behavior
+17,Google,"Good base for Tungnath and Chopta, nice views.",5,Positive,Accessibility
+18,Google,"Good food, home-like feel, friendly owner.",5,Positive,Food
+19,Google,"Wonderful stay, excellent host, appreciable hospitality, home cooked food.",5,Positive,Food
+20,Google,"Friendly owner, good food, okay rooms.",5,Positive,Food
+21,Google,"Feels like home, service was amazing.",5,Positive,Host Behavior
+22,Google,"Close to nature, good service.",3,Neutral,Host Behavior
+23,Google,"Nice, helpful owner.",5,Positive,Host Behavior
+24,Google,Very nice service and comfortable rooms.,5,Positive,Host Behavior
+25,Google,Great place to reside in between Tunganath and Deoriatal.,5,Positive,Experience Uniqueness
+26,Google,"Peaceful, child-friendly.",5,Positive,Host Behavior
+27,Google,"Excellent service, cooperative owner.",5,Positive,Host Behavior
+28,Google,Very nice place to stay with family.,5,Positive,Experience Uniqueness
+29,Google,"Organic food, all facilities available.",5,Positive,Food
+30,Google,"Feels like home, scenic, child-friendly.",5,Positive,Host Behavior
+31,Google,Best experience.,5,Positive,Experience Uniqueness
+32,Google,Home stay like home.,4,Positive,Experience Uniqueness
+33,Google,Very good experience.,5,Positive,Experience Uniqueness
+34,Google,"Good service, economical.",5,Positive,Host Behavior
+35,Google,Awesome.,5,Positive,Experience Uniqueness
+36,Google,"Okay, but poor safety and cleanliness.",4,Positive,Cleanliness
+37,Google,Best in the area.,5,Positive,Experience Uniqueness
+38,Google,No written review provided,5,Positive,Experience Uniqueness
+39,Google,No written review provided,5,Positive,Experience Uniqueness
+40,Google,No written review provided,5,Positive,Experience Uniqueness
+41,Google,No written review provided,5,Positive,Experience Uniqueness
+42,Google,No written review provided,5,Positive,Experience Uniqueness
+43,Google,No written review provided,5,Positive,Experience Uniqueness
+44,Google,No written review provided,5,Positive,Experience Uniqueness
+45,Google,No written review provided,4,Positive,Experience Uniqueness
+46,Google,No written review provided,5,Positive,Experience Uniqueness
+47,Google,No written review provided,5,Positive,Experience Uniqueness
+48,Google,No written review provided,5,Positive,Experience Uniqueness
+49,Google,No written review provided,5,Positive,Experience Uniqueness
+50,Google,No written review provided,5,Positive,Experience Uniqueness
+51,Google,No written review provided,5,Positive,Experience Uniqueness
+52,Google,No written review provided,5,Positive,Experience Uniqueness
+53,Google,No written review provided,5,Positive,Experience Uniqueness
+54,Google,No written review provided,5,Positive,Experience Uniqueness
+55,Google,No written review provided,5,Positive,Experience Uniqueness
+56,Google,No written review provided,5,Positive,Experience Uniqueness
+57,Google,No written review provided,5,Positive,Experience Uniqueness
+58,Google,No written review provided,5,Positive,Experience Uniqueness
+59,Google,No written review provided,5,Positive,Experience Uniqueness
+60,Google,No written review provided,5,Positive,Experience Uniqueness
+61,Google,No written review provided,5,Positive,Experience Uniqueness
+62,Google,No written review provided,5,Positive,Experience Uniqueness
+63,Google,No written review provided,5,Positive,Experience Uniqueness
+64,Google,No written review provided,5,Positive,Experience Uniqueness
+65,Google,No written review provided,5,Positive,Experience Uniqueness
+66,Google,No written review provided,5,Positive,Experience Uniqueness
+67,Google,No written review provided,5,Positive,Experience Uniqueness
+68,Google,No written review provided,5,Positive,Experience Uniqueness
+69,Google,No written review provided,3,Neutral,Experience Uniqueness
+70,Google,No written review provided,5,Positive,Experience Uniqueness
+71,Google,No written review provided,5,Positive,Experience Uniqueness

@@ -18,11 +18,11 @@ Develop a machine learning-based system that automatically classifies guest revi
 
 Key Features:
 
-* Review sentiment classification
-* Text preprocessing
-* Exploratory Data Analysis
-* Sentiment trend visualization
-* Business insight generation
+- Review sentiment classification
+- Text preprocessing
+- Exploratory Data Analysis
+- Sentiment trend visualization
+- Business insight generation
 
 ---
 
@@ -34,11 +34,11 @@ Create an interactive dashboard to monitor guest feedback and business performan
 
 Key Features:
 
-* Guest rating analysis
-* KPI monitoring
-* Review trend tracking
-* Sentiment distribution analysis
-* Interactive reporting
+- Guest rating analysis
+- KPI monitoring
+- Review trend tracking
+- Sentiment distribution analysis
+- Interactive reporting
 
 ---
 
@@ -59,22 +59,22 @@ Trishul-Eco-Homestays
 
 ### AI & Machine Learning
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
 
 ### Business Intelligence
 
-* Power BI
-* SQL
-* Excel
+- Power BI
+- SQL
+- Excel
 
 ### Version Control
 
-* Git
-* GitHub
+- Git
+- GitHub
 
 ---
 
@@ -82,19 +82,19 @@ Trishul-Eco-Homestays
 
 ### Week 1
 
-* Repository setup
-* Environment configuration
-* Project planning
-* Documentation
-* Technology stack finalization
+- Repository setup
+- Environment configuration
+- Project planning
+- Documentation
+- Technology stack finalization
 
 ### Week 2–3
 
-* Dataset preparation
-* Data cleaning
-* Exploratory Data Analysis
-* Sentiment model foundation
-* Dashboard development
+- Dataset preparation
+- Data cleaning
+- Exploratory Data Analysis
+- Sentiment model foundation
+- Dashboard development
 
 ---
 
