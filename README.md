@@ -137,4 +137,5 @@ Trishul-Eco-Homestays/
 ## Author
 
 **Juhi K**
-TBI-GEU Summer Internship Programme 2026
+
+(TBI-GEU Summer Internship Programme 2026)
